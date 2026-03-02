@@ -276,7 +276,3 @@ docs: update documentation
 test: add tests
 refactor: refactor code
 ```
-
-## 📄 License
-
-MIT License - see [LICENSE](./LICENSE) file.
