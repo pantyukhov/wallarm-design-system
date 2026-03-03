@@ -1,3 +1,12 @@
+## <small>0.4.2 (2026-03-02)</small>
+
+* docs: e2e test rules (#19) ([4feaa55](https://github.com/wallarm/design-system/commit/4feaa55)), closes [#19](https://github.com/wallarm/design-system/issues/19)
+* docs: Update README.md ([b710d16](https://github.com/wallarm/design-system/commit/b710d16))
+* fix: [update-screenshots] (#27) ([0a7a15b](https://github.com/wallarm/design-system/commit/0a7a15b)), closes [#27](https://github.com/wallarm/design-system/issues/27)
+* fix: [update-screenshots] (#28) ([97ab800](https://github.com/wallarm/design-system/commit/97ab800)), closes [#28](https://github.com/wallarm/design-system/issues/28)
+* test: Badge component (#22) ([3f80e20](https://github.com/wallarm/design-system/commit/3f80e20)), closes [#22](https://github.com/wallarm/design-system/issues/22)
+* chore: Playwright unification (#14) ([3442cfa](https://github.com/wallarm/design-system/commit/3442cfa)), closes [#14](https://github.com/wallarm/design-system/issues/14)
+
 ## <small>0.4.1 (2026-02-25)</small>
 
 * fix: Table misc changes (#26) ([da81238](https://github.com/wallarm/design-system/commit/da81238)), closes [#26](https://github.com/wallarm/design-system/issues/26)
