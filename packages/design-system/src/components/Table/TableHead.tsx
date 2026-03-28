@@ -13,7 +13,7 @@ export const TableHead: FC = () => {
     .some(col => col.columnDef.meta?.description?.type === 'text');
 
   return (
-    <THead className='sticky top-0 z-30 h-32' data-testid={testId}>
+    <THead className='sticky top-0 z-30' data-testid={testId}>
       {table.getHeaderGroups().map(headerGroup => (
         <Tr key={headerGroup.id}>
           {headerGroup.headers.map(header => (
