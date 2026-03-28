@@ -19,7 +19,7 @@ export const TableActionBar: FC<TableActionBarProps> = ({ children }) => {
         <ArkUiPopover.Content
           data-testid={testId}
           className={cn(
-            'bg-component-toast-bg rounded-16 shadow-lg',
+            'bg-component-toast-bg rounded-12 shadow-lg',
             'pl-12 pr-8 py-8',
 
             // Animation opened
